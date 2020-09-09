@@ -1,0 +1,68 @@
+body{
+  background-color: #EBEBEB;
+}
+
+.div{
+  margin-left: 160px;
+  width: 1345px;
+  height: 300px;
+}
+
+.divOne{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 70px;
+  width: 300px;
+  text-align: center;
+}
+
+.divImage{
+  height: 100px;
+  width: 100px;
+}
+
+.divText{
+  text-align: center;
+
+}
+
+.divTitle{
+  color: #08D9D6;
+}
+
+
+.divThree{
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 70px;
+  width: 300px;
+  text-align: center;
+}
+
+.divTwo{
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 70px;
+  width: 300px;
+  text-align: center;
+}
+
+.footer{
+  color: #EAEAEA;
+  text-align: center;
+  background-color: #252A34;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  height: 2.5rem;
+}
+
+
+.mainDiv{
+  background-color: #FF2E63;
+  color: #EBEBEB;
+  font-family: 'Poiret One', cursive;
+  font-size: 5rem;
+  padding: 50px ;
+  text-align: center;
+}
