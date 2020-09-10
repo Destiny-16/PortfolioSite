@@ -2,6 +2,25 @@ body{
   background-color: #EBEBEB;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #252a34;
+}
+
+.carousel-indicators{
+  background-color: #252a34;
+}
+
+.carousel-item{
+  height: 600px;
+  width: 600px;
+  margin-left: 400px;
+  backface-visibility:visible;
+}
+
+.carousel-text{
+  color: #08D9D6;
+}
+
 .div{
   margin-left: 160px;
   width: 1345px;
@@ -63,6 +82,15 @@ body{
   color: #EBEBEB;
   font-family: 'Poiret One', cursive;
   font-size: 5rem;
-  padding: 50px ;
+  padding: 50px;
+  text-align: center;
+}
+
+.projectsMainDiv{
+  background-color: #FF2E63;
+  color: #EBEBEB;
+  font-family: 'Poiret One', cursive;
+  font-size: 5rem;
+  margin-bottom: 50px;
   text-align: center;
 }
