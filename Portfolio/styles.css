@@ -21,6 +21,10 @@ body{
   color: #08D9D6;
 }
 
+.container{
+  : center;
+}
+
 .div{
   margin-left: 160px;
   width: 1345px;
@@ -38,14 +42,17 @@ body{
 .divImage{
   height: 100px;
   width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .divText{
   text-align: center;
-
 }
 
 .divTitle{
+  text-align: center;
   color: #08D9D6;
 }
 
@@ -83,6 +90,7 @@ body{
   font-family: 'Poiret One', cursive;
   font-size: 5rem;
   padding: 50px;
+  margin-bottom: 50px;
   text-align: center;
 }
 
